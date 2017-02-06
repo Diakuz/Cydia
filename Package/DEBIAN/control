@@ -2,7 +2,7 @@ Package: com.diakuz.package
 Name: Test Package
 Version: 1.0
 Architecture: iphoneos-arm
-Description: This is a test package from Diakuz
+Description: This is a test package from Logan Brown
 Depiction: Test
 Homepage:
 Maintainer: Logan Brown <dezute.com@gmail.com>
