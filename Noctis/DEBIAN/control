@@ -1,1 +1,10 @@
-hi
+Package: com.diakuz.Noctis
+Name: Noctis
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is Noctis, a compatible tweak with ios 10
+Depiction:
+Homepage:
+Maintainer: Logan Brown <dezute.com@gmail.com>
+Author: Logan Brown <dezute.com@gmail.com>
+Section: Tweaks
